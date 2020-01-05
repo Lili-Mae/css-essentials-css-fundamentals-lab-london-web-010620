@@ -21,10 +21,13 @@ figure figcaption{
 }
 
 /* padding to the navbar and change the background color*/
-a {
+nav {
+  text-align: center;
+}
+nav a {
   padding-left:10px;
   padding-right:10px;
-  background-color:gray;
+  background-color:grey;
 }
 
 figcaption {
